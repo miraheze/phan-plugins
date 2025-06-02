@@ -1,0 +1,20 @@
+{
+	"name": "miraheze/phan-plugins",
+	"description": "Phan plugins for Miraheze",
+	"keywords": [
+		"php",
+		"static",
+		"analyzer",
+		"phan"
+	],
+	"license": "GPL-3.0-or-later",
+	"authors": [
+		{
+			"name": "Universal Omega"
+		}
+	],
+	"require": {
+		"phan/phan": "5.4.5",
+		"php": ">=8.2"
+	}
+}
